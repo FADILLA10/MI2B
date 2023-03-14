@@ -3,19 +3,23 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package mi2b;
+package Pertemuan2;
 
 /**
  *
  * @author HP
  */
-public class MI2B {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
+public class Person {
     
+   String name;
+   
+   public String getName()
+   {
+       return name;
+   }
+   
+   public void setName(String name)
+   {
+       this.name = name;
+   }
 }
