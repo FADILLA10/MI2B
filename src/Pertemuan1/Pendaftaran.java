@@ -14,7 +14,7 @@ public class Pendaftaran {
     {
         Pertemuan1.Mahasiswa Mhs = new Pertemuan1.Mahasiswa();
         
-         Mhs.nama = "FADILLA ANGGRAINI";
+        Mhs.nama = "FADILLA ANGGRAINI";
         Mhs.nobp = "2101092006";
         Mhs.kelas = "MI 2B";
         Mhs.prodi = "D3 MANAJEMEN INFORMATIKA";

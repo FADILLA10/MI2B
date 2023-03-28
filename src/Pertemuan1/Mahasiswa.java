@@ -33,7 +33,7 @@ public class Mahasiswa {
         
         Mahasiswa Mhs2 = new Mahasiswa();
         
-        Mhs.nama = "SALSABILA OKTA KIRANA";
+        Mhs.nama = "SALSABILA";
         Mhs.nobp = "2101092068";
         Mhs.kelas = "MI 2B";
         Mhs.prodi = "D3 MANAJEMEN INFORMATIKA";
